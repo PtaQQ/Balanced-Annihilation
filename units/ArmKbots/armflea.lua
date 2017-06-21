@@ -36,7 +36,7 @@ return {
 		turninplacespeedlimit = 2.904,
 		turnrate = 1672,
 		customparams = {
-			
+			description_long = "Fleas are supercheap and fast to build Kbots used for scouting and damaging the early eco structures of enemies. It is faster than all Kbots and most vehicles but any close confrontation will be lethal to it. Evade laser towers and destroy metal extractors to slow down your foe’s expansion! With elite micro skills this unit is enough to finish your opponent in 1v1 matches. In T2 warfare fleas come as an effective counter to slow shooting units, like snipers, penetrators and artillery. When produced constantly and sent to the front they can pull the heavy fire on themselves while your T2 units deal damage to artillery.",
 		},
 		featuredefs = {
 			dead = {
